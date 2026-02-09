@@ -1,5 +1,4 @@
-# data-analysis-projects
-Data analysis and machine learning projects using Python
+
 # Data Analytics Portfolio – Konkathi Rithin Kumar
 
 This repository contains my data analytics and machine learning projects, focused on extracting insights, predictive modeling, and real-world problem solving.
