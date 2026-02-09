@@ -1,0 +1,23 @@
+# Twitter Sentiment Analysis
+
+## Description
+This project analyzes Twitter data to classify public sentiment using big data processing techniques.
+
+## Objective
+To perform large-scale sentiment analysis and classify tweets into positive, negative, or neutral categories.
+
+## Tools & Technologies
+- Python
+- Hadoop MapReduce
+- Natural Language Processing (NLP)
+
+## Key Features
+- Data preprocessing and cleaning
+- Sentiment classification using NLP techniques
+- Scalable processing with Hadoop MapReduce
+
+## Outcome
+Successfully classified large volumes of tweets and generated sentiment insights useful for trend analysis.
+
+## Author
+Konkathi Rithin Kumar
