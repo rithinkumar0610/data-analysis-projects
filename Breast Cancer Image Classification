@@ -1,0 +1,23 @@
+# Breast Cancer Image Classification
+
+## Description
+Deep learning project for multi-class classification of breast cancer images, published in IEEE.
+
+## Objective
+To improve diagnostic accuracy using convolutional neural networks (CNNs).
+
+## Tools & Technologies
+- Python
+- Deep Learning
+- Convolutional Neural Networks (CNNs)
+
+## Key Features
+- Image preprocessing and augmentation
+- Multi-class classification
+- Model optimization
+
+## Outcome
+Achieved improved classification accuracy and contributed to published research.
+
+## Author
+Konkathi Rithin Kumar
